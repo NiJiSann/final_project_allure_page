@@ -1,0 +1,1 @@
+>>> LOG: Clean Stay Destination is not displayed. NoSuchElementException.
